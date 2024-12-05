@@ -10,9 +10,11 @@ Visualization: Plotting insights and results for better interpretability.
 
 
 Features
+
 Clean and modular code, easy to understand and extend.
 Includes necessary libraries such as pandas, numpy, and matplotlib.
 Designed for easy execution on Google Colab.
+
 How to Use
 
 Clone the repository.
@@ -21,10 +23,9 @@ Follow the steps to load data, train models, and evaluate predictions.
 
 
 Requirements
+
 Python 3.x
 Jupyter Notebook or Google Colab
 Required libraries listed in the notebook.
 
 
-License
-MIT License
